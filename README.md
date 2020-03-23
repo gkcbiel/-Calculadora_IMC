@@ -1,4 +1,4 @@
-# calcularimc
+# calcular_imc
 
 A new Flutter application.
 
